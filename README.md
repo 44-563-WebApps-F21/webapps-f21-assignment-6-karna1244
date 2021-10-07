@@ -1,7 +1,7 @@
 # WebApps-F21-Assignment-6
 Assignment introduction Java Script and DOM
 <br>
-[Hosted at]Pass(https://44-563-webapps-f21.github.io/webapps-f21-assignment-6-karna1244/pass.html)
+[Hosted at](https://44-563-webapps-f21.github.io/webapps-f21-assignment-6-karna1244/pass.html) Pass
 <br>
 [Hosted at]Arithemtic(https://44-563-webapps-f21.github.io/webapps-f21-assignment-6-karna1244/arithmetic.html)
 <br>
